@@ -11,15 +11,15 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: LIJUN CUI # add your name
 author-img: https://avatars.githubusercontent.com/u/86622407?s=400&u=e53567fca29d0edca8668220d64d36315091df05&v=4 # add your photo
-about-author: I am a fitness personal trainer focusing on personal growth. Always open to discuss. # add description
+about-author: I am a fitness personal trainer focusing on personal growth. Always open to discuss. 我是一个教练。 # add description
 social-twitter: @Lijunpersonalt1# add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: lijun.cui.cc@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Lijunpersonaltraining # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
